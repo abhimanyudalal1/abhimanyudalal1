@@ -5,19 +5,17 @@
 
 ## 💼 Technical Skills
 
-## 💼 Technical Skills
-
 **Programming Languages:**  
-Python, C, C++, SQL, MATLAB
+-Python, C, C++, SQL, MATLAB
 
 **ML / AI Frameworks & Libraries:**  
-TensorFlow, PyTorch, Keras, Scikit-learn, FAISS, HuggingFace, OpenCV
+-TensorFlow, PyTorch, Keras, Scikit-learn, FAISS, HuggingFace, OpenCV
 
 **AI & Data Science Skills:**  
-Neural Networks, Deep Learning, Natural Language Processing (NLP), Computer Vision, Statistical Analysis, A/B Testing, Predictive Modeling
+-Neural Networks, Deep Learning, Natural Language Processing (NLP), Computer Vision, Statistical Analysis, A/B Testing, Predictive Modeling
 
 **Tools & Environments:** 
-Git, Linux, Streamlit
+-Git, Linux, Streamlit
 
 
 
