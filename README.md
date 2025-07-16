@@ -14,12 +14,9 @@ Python, C, C++, SQL, MATLAB
 TensorFlow, PyTorch, Keras, Scikit-learn, FAISS, HuggingFace, OpenCV
 
 **AI & Data Science Skills:**  
-Neural Networks, Deep Learning, Natural Language Processing (NLP), Computer Vision, Data Mining, Statistical Analysis, A/B Testing, Predictive Modeling
+Neural Networks, Deep Learning, Natural Language Processing (NLP), Computer Vision, Statistical Analysis, A/B Testing, Predictive Modeling
 
-**Data Handling & Visualization:**  
-Pandas, NumPy, Matplotlib
-
-**Tools & Environments:**  
+**Tools & Environments:** 
 Git, Linux, Streamlit
 
 
