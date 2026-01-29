@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on applications of geospatial imagery classification.<br>👯 I’m looking to collaborate on open source AI/ML backed projects from any domains.<br>📫 How to reach me: [LinkedIn](www.linkedin.com/in/abhimanyu--dalal), mail: abhimanyu3704@gmail.com<br>🤔 Recent contributions:- SKTime. I’m looking for help in finding good open source contributions.<br><br>⚡ <br>
+🔭 I’m currently working on applications of geospatial imagery classification.<br>👯 I’m looking to collaborate on open source AI/ML backed projects from any domains.<br>📫 How to reach me: [LinkedIn](www.linkedin.com/in/abhimanyu--dalal), mail: abhimanyu3704@gmail.com<br>🤔 Recent contributions:- Sktime. I’m looking for help in finding good open source contributions.<br><br>⚡ <br>
 
 
 
