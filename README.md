@@ -1,21 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on applications of geospatial imagery classification.<br>👯 I’m looking to collaborate on open source AI/ML backed projects from any domains.<br>📫 How to reach me: [LinkedIn](www.linkedin.com/in/abhimanyu--dalal), mail: abhimanyu3704@gmail.com<br>🤔 I’m looking for help in finding good open source contributions.<br><br>⚡ <br><br><br><br>
+🔭 I’m currently working on applications of geospatial imagery classification.<br>👯 I’m looking to collaborate on open source AI/ML backed projects from any domains.<br>📫 How to reach me: [LinkedIn](www.linkedin.com/in/abhimanyu--dalal), mail: abhimanyu3704@gmail.com<br>🤔 Recent contributions:- SKTime. I’m looking for help in finding good open source contributions.<br><br>⚡ <br>
 
-## 💼 Technical Skills
-
-**Programming Languages:**  
--Python, C, C++, SQL, MATLAB
-
-**ML / AI Frameworks & Libraries:**  
--TensorFlow, PyTorch, Keras, Scikit-learn, FAISS, HuggingFace, OpenCV
-
-**AI & Data Science Skills:**  
--Neural Networks, Deep Learning, Natural Language Processing (NLP), Computer Vision, Statistical Analysis, A/B Testing, Predictive Modeling
-
-**Tools & Environments:** 
--Git, Linux, Streamlit
 
 
 
